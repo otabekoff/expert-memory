@@ -1,0 +1,95 @@
+MIT License
+
+Copyright (c) 2025 Otabek Sadiridinov
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Educational Use
+
+This software is provided as an educational resource for learning advanced
+Python encapsulation concepts. While the code demonstrates enterprise-grade
+patterns, it is intended for educational purposes and may require additional
+security, testing, and compliance features for production use in regulated
+industries such as financial technology.
+
+### Educational Purpose Disclaimer
+
+This project is designed to teach:
+- Object-oriented programming principles
+- Encapsulation and data hiding
+- State machine implementation
+- Defensive programming techniques
+- Composition over inheritance
+- Input validation and error handling
+
+### Production Use Advisory
+
+If you intend to use this code in a production environment, especially in
+regulated industries (fintech, healthcare, etc.), you should:
+
+1. Conduct thorough security audits
+2. Implement proper authentication and authorization
+3. Add encryption for sensitive data
+4. Integrate database persistence
+5. Implement comprehensive logging and monitoring
+6. Add rate limiting and DDoS protection
+7. Ensure regulatory compliance (GDPR, PCI-DSS, etc.)
+8. Conduct penetration testing
+9. Implement backup and disaster recovery
+10. Add comprehensive unit and integration tests
+
+### No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF
+THIS SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+- Data loss or corruption
+- Security breaches
+- Compliance violations
+- Financial losses
+- Business interruption
+- Any other direct or indirect damages
+
+### Attribution
+
+If you use this code in your projects, attribution is appreciated but not
+required. You may include a notice such as:
+
+"Based on Advanced Encapsulation Assignment educational project"
+
+### Contributing
+
+By contributing to this project, you agree that your contributions will be
+licensed under the MIT License.
+
+### Third-Party Licenses
+
+This software uses only Python standard library components, which are
+provided under the Python Software Foundation License (PSF).
+
+Python Software Foundation License: https://docs.python.org/3/license.html
+
+---
+
+For questions about licensing, please open an issue in the project repository.
+
+Last updated: November 19, 2025
